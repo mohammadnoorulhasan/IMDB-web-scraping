@@ -5,3 +5,12 @@ IMDB provides a list of celebrities born on the current date. Below is the link:
 1. Name of the celebrity
 2. Celebrity Image
 3. Details
+
+
+Module used :
+
+1. BeautifulSoup
+2. Requests
+
+
+
